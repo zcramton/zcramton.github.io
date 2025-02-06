@@ -3,12 +3,13 @@ project:
   output-dir: docs
 
 website:
-  title: "zcramton.github.io"
+  title: "Zachary Cramton"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
       - href: projects.qmd
         text: Projects
       - href: file/path/to/sp-25.resume.pdf
