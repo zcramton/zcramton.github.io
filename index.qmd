@@ -1,11 +1,19 @@
 ---
-title: "zcramton.github.io"
+title: "Zachary Cramton"
+text: "Hello! I'm a student with a passion for sustainable development, urban ecology and regional planning."
+image: media/zc-headshot.jpg
+toc: false
+about:
+  template: solana
+  image-shape: rounded
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/zcramton
+    - text: GitHub
+      href: https://github.com/zcramton
+    - text: Personal Email
+      href: mailto::zachary@cramton.com
+    - text: University Email
+      href: mailto::zcramton@colostate.edu
 ---
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
