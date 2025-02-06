@@ -8,14 +8,22 @@ toc: false
 about:
   template: solana
   image-shape: rounded
-  image-width: 17em
+  image-width: 10em
   links:
-    - text: LinkedIn
+    - icon: linkedin
+      text: LinkedIn
       href: https://www.linkedin.com/in/zcramton
-    - text: GitHub
+      target: _blank
+    - icon: Github
+      text: GitHub
       href: https://github.com/zcramton
-    - text: Personal Email
+      target: _blank
+    - icon: envelope
+      text: Personal Email
       href: mailto::zachary@cramton.com
-    - text: University Email
+      target: _blank
+    - icon: envelope
+      text: University Email
       href: mailto::zcramton@colostate.edu
+      target: _blank
 ---
