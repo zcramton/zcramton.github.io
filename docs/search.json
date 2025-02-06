@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque interdum congue enim, quis varius enim viverra at. Mauris fermentum metus vel nibh dictum hendrerit. Vivamus non ultricies lacus. Proin hendrerit commodo velit in cursus. Curabitur nec leo justo. In pellentesque hendrerit ullamcorper. Sed auctor mattis lectus, vel aliquet magna ornare vitae. Etiam gravida vel augue a rhoncus. Cras vestibulum faucibus purus, vel semper sapien consequat eget. Nulla sit amet finibus justo, placerat feugiat erat. Morbi congue metus pretium leo mollis cursus. Mauris consectetur ligula id aliquam rutrum."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Zachary Cramton",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque interdum congue enim, quis varius enim viverra at. Mauris fermentum metus vel nibh dictum hendrerit. Vivamus non ultricies lacus. Proin hendrerit commodo velit in cursus. Curabitur nec leo justo. In pellentesque hendrerit ullamcorper. Sed auctor mattis lectus, vel aliquet magna ornare vitae. Etiam gravida vel augue a rhoncus. Cras vestibulum faucibus purus, vel semper sapien consequat eget. Nulla sit amet finibus justo, placerat feugiat erat. Morbi congue metus pretium leo mollis cursus. Mauris consectetur ligula id aliquam rutrum."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Zachary Cramton",
+    "section": "",
+    "text": "Hello! I’m a student with a passion for sustainable development, urban ecology and regional planning.”"
+  }
+]
