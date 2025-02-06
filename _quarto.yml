@@ -4,13 +4,11 @@ project:
 
 website:
   title: "Zachary Cramton Personal Site"
-  favicon: media/cauliflowr.jpg
+  favicon: media/cauliflower.jpg
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: About
       - href: projects.qmd
         text: Projects
       - href: media/sp-25-resume.pdf
@@ -24,7 +22,7 @@ website:
 format:
   html:
     theme: cosmo
-    css: styles.css
+    css: styles.scss
     toc: true
 
 editor: visual
