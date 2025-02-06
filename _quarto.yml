@@ -12,7 +12,7 @@ website:
         text: About
       - href: projects.qmd
         text: Projects
-      - href: file/path/to/sp-25.resume.pdf
+      - href: docs/sp-25.resume.pdf
         text: Resume
 
 format:
