@@ -8,13 +8,13 @@ toc: false
 about:
   template: solana
   image-shape: rounded
-  image-width: 10em
+  image-width: 15em
   links:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/zcramton
       target: _blank
-    - icon: Github
+    - icon: github
       text: GitHub
       href: https://github.com/zcramton
       target: _blank
