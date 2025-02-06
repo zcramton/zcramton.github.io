@@ -9,6 +9,10 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: projects.qmd
+        text: Projects
+      - href: file/path/to/sp-25.resume.pdf
+        text: Resume
 
 format:
   html:
