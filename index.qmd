@@ -1,6 +1,6 @@
 ---
 title: "Zachary Cramton"
-## Hello! I'm a student with a passion for sustainable development, urban ecology and regional planning.
+subtitle: "Hello! I'm a student with a passion for sustainable development, urban ecology and regional planning."
 image: media/zc-headshot.jpg
 toc: false
 about:
