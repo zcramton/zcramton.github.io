@@ -6,6 +6,9 @@ website:
   title: "Zachary Cramton Personal Site"
   favicon: media/cauliflower.jpg
   navbar:
+    title: false
+    logo: media/csu-rams-logo.png
+    logo-alt: "CSU Rams Logo in white"
     left:
       - href: index.qmd
         text: Home
