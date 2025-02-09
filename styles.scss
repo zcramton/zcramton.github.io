@@ -1,13 +1,18 @@
-// define Sass vars 
+/*-- scss:defaults --*/
+// Defining SCSS Vars
+
+// Colors
 $darkblue: #053660;
 $teal: #147C91;
 $darkgray: #333333;
+$lightgray: #64605f;
+$darkgreen: #0e6426;
+$yelloworange: #f7b708;
+$csugold: #C8C372:
+$csugreen: #1E4D2B;
+$80-black: #59595B;
 
-// use vars in CSS rules (we'll learn more about how to write CSS soon!) 
-h1 
-{font-color: $darkblue;}
 
-.button-styling {
-  background: $teal;
-  color: $darkblue; 
-  border-color: $darkgray;}
+// Base document colors
+$navbar-bg: $darkgreen; //navbar
+$navbar-fg: $yelloworange; //navbar foregorund elements

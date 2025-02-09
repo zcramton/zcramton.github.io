@@ -24,8 +24,9 @@ website:
 
 format:
   html:
-    theme: cosmo
-    css: styles.scss
+    theme: 
+      - cosmo
+      - style.scss
     toc: true
 
 editor: visual
