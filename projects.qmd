@@ -2,6 +2,31 @@
 title: "Projects"
 ---
 
-### [Spring 2025]()
+### Fall 2024
 
-  
+#### Watershed Sustainability - WR204
+
+In the fall of 2024 I took a class on watershed science. The final project was a collaborative river reach assessment based on data released by the City of Fort Collins.
+
+[Poudre River Reach Assessment](media/wr204_poudre_river_reach_assessment.pdfsment)
+
+### Spring 2025
+
+#### Quantitative Reasoning for Ecosystem Science- ESS 330
+
+In the spring of 2025 I took a class on quantitative reasoning based in R. The course focused on applying instruction on coding in R to applications in statistics and data science.
+
+##### [Building a project website:](https://zcramton.github.io)
+
+-   In this assignment I built a personal website with Github Pages.
+-   Includes a github repo for access to all the code.
+-   Began reformatting file management across my personal systems.
+-   Involved extensive troubleshooting and became familiar with R and Terminal syntaxes.
+
+#### Sustainability Science - ESS 312
+
+In this course I will be completing a research project exploring impacts and perceptions of obstacles to sustainable transportation in and around the campus of CSU Fort Collins. Update expected April 2025.
+
+#### Life Cycle Assessment for Sustainability - ESS 555
+
+In this course I will be completing a comparative LCA. Update expected March 2025.
