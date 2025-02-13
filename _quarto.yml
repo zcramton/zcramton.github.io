@@ -7,7 +7,7 @@ website:
   favicon: media/cauliflower.jpg
   navbar:
     title: false
-    logo: media/csu-rams-logo.png
+    logo: media/csu-rams-logo.pngred
     logo-alt: "CSU Rams Logo in white"
     left:
       - href: index.qmd
