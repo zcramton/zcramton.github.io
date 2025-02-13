@@ -8,7 +8,8 @@ title: "Projects"
 
 In the fall of 2024 I took a class on watershed science. The final project was a collaborative river reach assessment based on data released by the City of Fort Collins.
 
-[Poudre River Reach Assessment](media/wr204_poudre_river_reach_assessment.pdfsment)
+<a href="media/wr204_poudre_river_reach_assessment.pdf" target="_blank"> Poudre River Reach Assessment </a>
+
 
 ### Spring 2025
 
@@ -16,12 +17,12 @@ In the fall of 2024 I took a class on watershed science. The final project was a
 
 In the spring of 2025 I took a class on quantitative reasoning based in R. The course focused on applying instruction on coding in R to applications in statistics and data science.
 
-##### [Building a project website:](https://zcramton.github.io)
+##### <a href: "https://zcramton.github.io" target = "_blank"> Building a project website: </a>
 
 -   In this assignment I built a personal website with Github Pages.
 -   Includes a github repo for access to all the code.
 -   Began reformatting file management across my personal systems.
--   Involved extensive troubleshooting and became familiar with R and Terminal syntaxes.
+-   Involved extensive troubleshooting and became familiar with R and Terminal syntax.
 
 #### Sustainability Science - ESS 312
 

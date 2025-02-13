@@ -1,8 +1,5 @@
 ---
 title: "Zachary Cramton"
----
-Hello! I'm a student at Colorado State University with a passion for sustainable development, urban ecology and regional planning. I'm particularly focused on revitalizing abondonded infrastructure and incorporating sustainability through ecology into urban areas.
----
 image: media/zc-headshot.jpg
 toc: false
 about:
@@ -27,3 +24,6 @@ about:
       href: mailto::zcramton@colostate.edu
       target: _blank
 ---
+
+Hello! I'm a student at Colorado State University with a passion for sustainable development, urban ecology and regional planning. I'm particularly focused on revitalizing abandonded infrastructure and incorporating sustainability through ecology into urban areas.
+

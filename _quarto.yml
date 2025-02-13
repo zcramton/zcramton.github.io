@@ -16,6 +16,7 @@ website:
         text: Projects
       - href: media/sp-25-resume.pdf
         text: Resume
+        target: _blank
   page-footer:
     background: light
     left: Copyright 2025, Zachary Cramton
