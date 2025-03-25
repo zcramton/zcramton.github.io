@@ -27,6 +27,7 @@ In the spring of 2025 I took a class on quantitative reasoning based in R. The c
 ##### Other Lab Projects
 
 Lab 2: Minnesota Tree Growth
+
 -   Examined forestry data from Minnesota to learn how to use the dplyr package.
 -   Used functions like slice(), filter(), arrange(), select(), mutate(), rename() and summarize to manipulate these data.
 
