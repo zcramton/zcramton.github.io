@@ -46,14 +46,14 @@ Lab 2: Minnesota Tree Growth
 
 #### Sustainability Science - ESS 312
 
-In this course I am conducting a research project exploring impacts and perceptions the Starship food delivery robots used by GrubHub to deliver food from the dining halls and student center around campus. 
+  In this course I am conducting a research project exploring impacts and perceptions the Starship food delivery robots used by Grubhub to deliver food from the dining halls and student center around campus. This research conducted throughout the remainder of the 2025 Spring semester, will interview students, staff, and faculty in the Warner College of Natural Resources to collect initial impressions of the Starship robots in the months after their January 2025 introduction. The goal of the report is to produce a word or phrase bank for future Q-methodology research in addition to forming a baseline understanding of opinions of stakeholders within the College of Natural Resources.
 
 #### Life Cycle Assessment for Sustainability - ESS 555
 
 In this course I will be completing a comparative LCA assessing the sustainability of liquid hand soap packaging. The project is going to be conducted in three main phases:
 -   [Goal & Scope Report](media/ess555_g+s_report.pdf){target="_blank"}
 -   [Life Cycle Inventory Report](media/ess555_lci_report.pdf){target="_blank"}
--   Life Cycle Impact Assessment (Ready May 2025)
+-   Life Cycle Impact Assessment (Update planned: May 2025)
   
 ##### Excerpt from the Life Cycle Inventory Report:
   In recent years consumers have demanded more sustainable products and
