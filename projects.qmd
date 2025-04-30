@@ -18,31 +18,16 @@ In the fall of 2024 I took a class on watershed science. The final project was a
 
 In the spring of 2025 I took a class on quantitative reasoning based in R. The course focused on applying instruction on coding in R to applications in statistics and data science.
 
-##### [Building a project website:](https://zcramton.github.io){target="_blank"}
+##### [Building a project website:](https://zachary.cramton.com){target="_blank"}
 
 -   In this assignment I built a personal website with Github Pages.
 -   Includes a github repo for access to all the code.
 -   Began reformatting file management across my personal systems.
 -   Involved extensive troubleshooting and became familiar with R and Terminal syntax.
 
-##### Other Lab Projects
+##### [Coursework:](https://zachary.cramton.com/csu_ess_330/){target="_blank"}
 
-Lab 2: Minnesota Tree Growth
-
--   Examined forestry data from Minnesota to learn how to use the dplyr package.
--   Used functions like slice(), filter(), arrange(), select(), mutate(), rename() and summarize to manipulate these data.
-
-[Lab 3: COVID-19](https://zcramton.github.io/csu-ess-lab3/lab-03.html){target="_blank"}
-
--   Explored the New York Times COVID-19 data using r.
--   Used tidyverse and flextable packages to organize and display data.
--   Used the zoo package to calculate rolling averages.
-
-[Lab 4: LTER Statistics In R](https://zcramton.github.io/csu-ess330-lab4/lab-04.html){target="_blank"}
-
--   Used R to explore data from the National Science Foundation Long Term Ecological Research Network.
--   Used r packages including tidyverse, ggpubr, car and visdat to conduct statistical tests and display the data in the lterdatasampler package.
-
+  The rest of the work completed for this class can be found on the github pages site I created for the course. Please use the link in the heading for this subsection to go to the course site.
 
 #### Sustainability Science - ESS 312
 
