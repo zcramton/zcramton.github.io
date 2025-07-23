@@ -25,5 +25,4 @@ about:
       target: _blank
 ---
 
-Hello! I'm a student at Colorado State University with a passion for sustainable development, urban ecology and regional planning. I'm particularly focused on revitalizing abandonded infrastructure and incorporating sustainability through ecology into urban areas.
-
+Hello! I'm a student at Colorado State University with a passion for sustainable development, urban ecology and regional planning. As I enter my fourth year of undergrad I'm exploring sub-fields of ecology, sustainability science and urban planning to get a better idea of what I'm most interested in pursuing.
