@@ -39,6 +39,7 @@ This report collected words and phrases for future Q-methodology research in add
 #### Life Cycle Assessment for Sustainability - ESS 555
 
 In this course I completed a comparative LCA assessing the sustainability of two liquid hand soap packaging options. The project was conducted in three main phases: 
+
 - [Goal & Scope Report](media/ess555_g+s_report.pdf){target="_blank"} 
 - [Life Cycle Inventory Report](media/ess555_lci_report.pdf){target="_blank"} 
 - [Life Cycle Impact Assessment](media/ess555_final_report){target="_blank"}
