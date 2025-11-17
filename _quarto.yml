@@ -14,7 +14,7 @@ website:
         text: Home
       - href: projects.qmd
         text: Projects
-      - href: media/su_25_resume.pdf
+      - href: media/cramtonz_fa25_resume.pdf
         text: Resume
         target: _blank
   page-footer:
