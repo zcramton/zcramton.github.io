@@ -45,3 +45,7 @@ In this course I completed a comparative LCA assessing the sustainability of two
 - [Life Cycle Impact Assessment](media/ess555_final_report){target="_blank"}
 
 The comparative LCA resulted in mixed impacts between conventional PET bottles with PP caps and composite laminate pouches. That said, my assessment did not align with the claims of significant sustainability improvements made by refill pouch manufacturers based on my predefined system assumptions and constraints. This result may differ in a different scenario, particularly with a more complex logistics system. Throughout the course, I learned how to use OpenLCA and conduct life cycle assessments including sourcing data and defining parameters for the assessment.
+
+### Summer & Fall 2025
+
+Update coming soon.

@@ -25,4 +25,4 @@ about:
       target: _blank
 ---
 
-Hello! I'm a student at Colorado State University with a passion for sustainable development, urban ecology and regional planning. As I enter my fourth year of undergrad I'm exploring sub-fields of ecology, sustainability science and urban planning to get a better idea of what I'm most interested in pursuing.
+Hello! I'm a student at Colorado State University with a passion for sustainable development, urban ecology and regional planning. As I wrap up my undergrad, I'm exploring urban ecology, sustainability science, and urban planning as I'm actively job hunting. I hope to gain some work experience to support grad school opportunities in the future.
