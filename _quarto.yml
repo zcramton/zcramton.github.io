@@ -14,12 +14,12 @@ website:
         text: Home
       - href: projects.qmd
         text: Projects
-      - href: media/cramtonz_fa25_resume.pdf
+      - href: media/cramtonz_resume_sp26.pdf
         text: Resume
         target: _blank
   page-footer:
     background: light
-    left: Copyright 2025, Zachary Cramton
+    left: Copyright 2026, Zachary Cramton
     right: This website is built with [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/zcramton/zcramton.github.io){target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}.
 
 
