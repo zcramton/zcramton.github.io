@@ -1,15 +1,48 @@
 ---
 title: "Projects"
-toc: false
+toc: true
 ---
+## 2026
 
-### Fall 2024
+####  Personal Work
 
-#### Watershed Sustainability - WR204
+This year I aim to complete several white papers and grey reports on a variety of topics in urban and environmental planning. These topics include:
+- Light Truck Size and Emissions Policy; Impacts on Urban Form
+- Protecting Drivers Over Pedestrians; Discrepancies in Infrastructure and Vehicle Policy
+- E-Bike Regulation, Enforcement, and Policy
+- Network Analysis of Walkable, Livable Cities
 
-In the fall of 2024 I took a class on watershed science. The final project was a collaborative river reach assessment based on data released by the City of Fort Collins.
+I also plan to start development of a water efficient press-down bottle sprayer for cleaning bottles before reuse or recycling.
 
-<a href="media/wr204_poudre_river_reach_assessment.pdf" target="_blank"> Poudre River Reach Assessment </a>
+### Spring 2026
+
+#### Public Communication for Natural Resources - NR400
+
+This course expands on my experience from Summer 2025 and further examines communication for non-expert audiences through the lens of bias, clarity, and multi-media communication.
+
+#### ESS Capstone - ESS 440
+
+Like senior design this course provides an opportunity to apply skills to real world problems. My group will be exploring the NASA GLOBE Observer data and working with CitSci to pilot data system redundancy options and create local support for misquito habitat reporting in the City of Fort Collins.
+
+## 2025
+### Fall 2025
+
+#### ESS Independent Study - ESS 495
+
+Throughout 2025, I spearheaded a project to modernize the Alternative Transportation Fee Advisory Board website and rebuild records from the ten years since the board's inception. This included historical archival work, database management, web design, and financial record keeping culminating in a knowledge database to preserve the boards institutional knowledge and precedent for future years. You can find the website at [atfab.colostate.edu](https://atfab.colostate.edu){target="_blank"}.
+
+#### Earth Systems Ecology - ESS 411
+
+This course examined ecology from a systems perspective exploring earth cycles and their impact on the climate. Throughout this course I completed logic models, and prepared a draft for the NSF Graduate Research Fellowship Program (GRFP) application. The practice with systems thinking and synthesizing ecological concepts was helpful but the experience of drafting a application to the NSF-GRFP was novel and incredibly informative.
+
+### Summer 2025
+
+#### Writing in the Disciplines: Sciences - CO 301B
+
+This course provided a fresh prospective on academic writing focusing on scientific communication for non-expert audiences. I wrote two articles in the style of the Scientific American. 
+
+- [Concrete Jungles: Affulence and Environmental Health in American Cities](media/co301b_schell_advance.pdf){target="_blank"} is an advance discussing Schell et al. 2020 and the implications of historical planning discrimination on current urban ecological health.
+- [Seeing Cities Clearly: How AI and Drones Are Rewriting the Urban Map](media/co301b_urbanDroneMapping_feature.pdf){target="_blank"} is a feature length article discussing opportunities for drones and AI modeling to improve efficiency in urban and regional planning.
 
 ### Spring 2025
 
@@ -46,32 +79,11 @@ In this course I completed a comparative LCA assessing the sustainability of two
 
 The comparative LCA resulted in mixed impacts between conventional PET bottles with PP caps and composite laminate pouches. That said, my assessment did not align with the claims of significant sustainability improvements made by refill pouch manufacturers based on my predefined system assumptions and constraints. This result may differ in a different scenario, particularly with a more complex logistics system. Throughout the course, I learned how to use OpenLCA and conduct life cycle assessments including sourcing data and defining parameters for the assessment.
 
-### Summer 2025
+## 2024
+### Fall 2024
 
-#### Writing in the Disciplines: Sciences - CO 301B
+#### Watershed Sustainability - WR204
 
-This course provided a fresh prospective on academic writing focusing on scientific communication for non-expert audiences. I wrote two articles in the style of the Scientific American. 
+In the fall of 2024 I took a class on watershed science. The final project was a collaborative river reach assessment based on data released by the City of Fort Collins.
 
-- [Concrete Jungles: Affulence and Environmental Health in American Cities](media/co301b_schell_advance.pdf){target="_blank"} is an advance discussing Schell et al. 2020 and the implications of historical planning discrimination on current urban ecological health.
-- [Seeing Cities Clearly: How AI and Drones Are Rewriting the Urban Map](media/co301b_urbanDroneMapping_feature.pdf){target="_blank"} is a feature length article discussing opportunities for drones and AI modeling to improve efficiency in urban and regional planning.
-
-### Fall 2025
-
-#### ESS Independent Study - ESS 495
-
-Throughout 2025, I spearheaded a project to modernize the Alternative Transportation Fee Advisory Board website and rebuild records from the ten years since the board's inception. This included historical archival work, database management, web design, and financial record keeping culminating in a knowledge database to preserve the boards institutional knowledge and precedent for future years. You can find the website at [atfab.colostate.edu](https://atfab.colostate.edu){target="_blank"}.
-
-#### Earth Systems Ecology - ESS 411
-
-This course examined ecology from a systems perspective exploring earth cycles and their impact on the climate. Throughout this course I completed logic models, and prepared a draft for the NSF Graduate Research Fellowship Program (GRFP) application.The practice with systems thinking and synthesizing ecological concepts was helpful but the experience of drafting a application to the NSF-GRFP was novel and incredibly informative.
-
-### Spring 2026
-
-#### Public Communication for Natural Resources - NR400
-
-This course expands on my experience from Summer 2025 and further examines communication for non-expert audiences through the lens of bias, clarity, and multi-media communication.
-
-#### ESS Capstone - ESS 440
-
-Like senior design this course provides an opportunity to apply skills to real world problems. My group will be exploring the NASA GLOBE Observer data and working with CitSci to pilot data system redundancy options and create local support for misquito habitat reporting in the City of Fort Collins.
-
+<a href="media/wr204_poudre_river_reach_assessment.pdf" target="_blank"> Poudre River Reach Assessment </a>
