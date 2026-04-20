@@ -6,7 +6,7 @@ toc: true
 
 ####  Personal Work
 
-This year I aim to complete several white papers and grey reports on a variety of topics in urban and environmental planning. These topics include:
+This year I aim to complete several white papers on a variety of topics in urban and environmental planning. These topics include:
 - Light Truck Size and Emissions Policy; Impacts on Urban Form
 - Protecting Drivers Over Pedestrians; Discrepancies in Infrastructure and Vehicle Policy
 - E-Bike Regulation, Enforcement, and Policy
