@@ -1,0 +1,42 @@
+---
+title: "Writing"
+toc: false
+---
+
+:::{.section-intro}
+Science communication, feature writing, and public-facing work.
+:::
+
+:::{.project-grid}
+
+:::{.project-card}
+:::{.card-meta}
+CO 301B · August 2025
+:::
+### Seeing Cities Clearly
+:::{.card-tags}
+[Feature Article]{.tag} [Urban Planning]{.tag} [GIS]{.tag} [AI]{.tag}
+:::
+A feature article exploring how AI-powered drone remote sensing and machine learning are transforming urban planning and disaster resilience. Examines real-world applications in land-use classification, urban forest management, historic preservation, and disaster risk mapping.
+
+:::{.card-links}
+[Read (PDF)](media/co301b_urbanDroneMapping_feature.pdf){target="_blank"}
+:::
+:::
+
+:::{.project-card}
+:::{.card-meta}
+CO 301B · July 2025
+:::
+### Concrete Jungles
+:::{.card-tags}
+[Advance Article]{.tag} [Urban Ecology]{.tag} [Environmental Justice]{.tag}
+:::
+An advance article on Schell et al. (2020) examining how systemic racism and economic inequality shape the ecological health of American cities, from biodiversity and air quality to climate resilience, and what justice-centered urban planning can do about it.
+
+:::{.card-links}
+[Read (PDF)](media/co301b_schell_advance.pdf){target="_blank"}
+:::
+:::
+
+:::

@@ -1,28 +1,38 @@
 ---
-title: "Zachary Cramton"
-image: media/zc-headshot.jpg
+title: ""
+page-layout: full
 toc: false
-about:
-  template: solana
-  image-shape: rounded
-  image-width: 15em
-  links:
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/zcramton
-      target: _blank
-    - icon: github
-      text: GitHub
-      href: https://github.com/zcramton
-      target: _blank
-    - icon: envelope
-      text: Personal Email
-      href: mailto::zachary@cramton.com
-      target: _blank
-    - icon: envelope
-      text: University Email
-      href: mailto::zcramton@colostate.edu
-      target: _blank
 ---
 
-Hello! I'm a student at Colorado State University with a passion for sustainable development, urban ecology and regional planning. As I wrap up my undergrad, I'm searching for positions in urban forestry or ecology and enviornmental or urban planning. I hope to gain some work experience to support grad school opportunities in the future.
+:::{.column-screen}
+:::{.hero-banner style="background-image: url('media/background.jpeg');"}
+
+:::{.hero-content}
+
+![](media/zc-headshot.jpg){.hero-headshot}
+
+[Zachary Cramton]{.hero-name}
+
+[Urban Planning · Environmental Science · Spatial Data]{.hero-subtitle}
+
+:::{.hero-links}
+[LinkedIn](https://www.linkedin.com/in/zcramton){target="_blank"}
+[GitHub](https://github.com/zcramton){target="_blank"}
+[Email](mailto:zachary@cramton.com)
+:::
+
+:::
+
+[Beaver Complex - Fourmile Creek, Fairplay, Colorado ]{.hero-caption}
+
+:::
+:::
+
+:::{.about-section}
+
+I'm an urban and environmental planner based in Fort Collins, Colorado, with a B.S. in Ecosystem Science and Sustainability at Colorado State University. My work sits at the intersection of environmental planning, active transportation, and data — building tools, writing policy, and translating technical findings into decisions that improve how communities work with their landscapes.
+
+Recently I've led a web and records overhaul for CSU's Alternative Transportation Fee Advisory Board, authored a micromobility impact report for the Association for Commuter Transportation, and developed a spatial screening tool for beaver conflict and restoration analysis in ArcGIS Pro. My capstone project is piloting the migration of NASA GLOBE Observer's Mosquito Habitat Mapper to the CitSci platform in Fort Collins.
+
+I'm currently seeking entry-level roles in transportation planning, environmental consulting, or GIS. Reach me at [zachary@cramton.com](mailto:zachary@cramton.com).
+:::

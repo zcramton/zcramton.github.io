@@ -1,33 +1,34 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - media/
 
 website:
-  title: "Zachary Cramton Personal Site"
-  favicon: media/cauliflower.jpg
+  title: "Zachary Cramton"
+  favicon: media/favicon.svg
   navbar:
-    title: false
-    logo: media/csu-rams-logo.png
-    logo-alt: "CSU Rams Logo in white"
+    title: "ZC"
     left:
       - href: index.qmd
         text: Home
       - href: projects.qmd
-        text: Projects
+        text: Portfolio
+      - href: writing.qmd
+        text: Writing
       - href: media/cramtonz_resume_sp26.pdf
         text: Resume
         target: _blank
   page-footer:
     background: light
-    left: Copyright 2026, Zachary Cramton
-    right: This website is built with [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/zcramton/zcramton.github.io){target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}.
-
+    left: "© 2026 Zachary Cramton"
+    right: "Built with [{{< fa brands github >}}](https://docs.github.com/en/pages){target=_blank} and [Quarto](https://quarto.org/){target=_blank}"
 
 format:
   html:
-    theme: 
-      - cosmo
+    theme:
+      - sandstone
       - style.scss
+    toc: false
 
 editor: visual
-

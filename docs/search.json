@@ -1,37 +1,30 @@
 [
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
+    "objectID": "writing.html",
+    "href": "writing.html",
+    "title": "Writing",
     "section": "",
-    "text": "This year I aim to complete several white papers and grey reports on a variety of topics in urban and environmental planning. These topics include: - Light Truck Size and Emissions Policy; Impacts on Urban Form - Protecting Drivers Over Pedestrians; Discrepancies in Infrastructure and Vehicle Policy - E-Bike Regulation, Enforcement, and Policy - Network Analysis of Walkable, Livable Cities\nI also plan to start development of a water efficient press-down bottle sprayer for cleaning bottles before reuse or recycling.\n\n\n\n\n\nThis course expands on my experience from Summer 2025 and further examines communication for non-expert audiences through the lens of bias, clarity, and multi-media communication.\n\n\n\nLike senior design this course provides an opportunity to apply skills to real world problems. My group will be exploring the NASA GLOBE Observer data and working with CitSci to pilot data system redundancy options and create local support for misquito habitat reporting in the City of Fort Collins."
-  },
-  {
-    "objectID": "projects.html#section",
-    "href": "projects.html#section",
-    "title": "Projects",
-    "section": "",
-    "text": "This year I aim to complete several white papers and grey reports on a variety of topics in urban and environmental planning. These topics include: - Light Truck Size and Emissions Policy; Impacts on Urban Form - Protecting Drivers Over Pedestrians; Discrepancies in Infrastructure and Vehicle Policy - E-Bike Regulation, Enforcement, and Policy - Network Analysis of Walkable, Livable Cities\nI also plan to start development of a water efficient press-down bottle sprayer for cleaning bottles before reuse or recycling.\n\n\n\n\n\nThis course expands on my experience from Summer 2025 and further examines communication for non-expert audiences through the lens of bias, clarity, and multi-media communication.\n\n\n\nLike senior design this course provides an opportunity to apply skills to real world problems. My group will be exploring the NASA GLOBE Observer data and working with CitSci to pilot data system redundancy options and create local support for misquito habitat reporting in the City of Fort Collins."
-  },
-  {
-    "objectID": "projects.html#section-1",
-    "href": "projects.html#section-1",
-    "title": "Projects",
-    "section": "2025",
-    "text": "2025\n\nFall 2025\n\nESS Independent Study - ESS 495\nThroughout 2025, I spearheaded a project to modernize the Alternative Transportation Fee Advisory Board website and rebuild records from the ten years since the board’s inception. This included historical archival work, database management, web design, and financial record keeping culminating in a knowledge database to preserve the boards institutional knowledge and precedent for future years. You can find the website at atfab.colostate.edu.\n\n\nEarth Systems Ecology - ESS 411\nThis course examined ecology from a systems perspective exploring earth cycles and their impact on the climate. Throughout this course I completed logic models, and prepared a draft for the NSF Graduate Research Fellowship Program (GRFP) application. The practice with systems thinking and synthesizing ecological concepts was helpful but the experience of drafting a application to the NSF-GRFP was novel and incredibly informative.\n\n\n\nSummer 2025\n\nWriting in the Disciplines: Sciences - CO 301B\nThis course provided a fresh prospective on academic writing focusing on scientific communication for non-expert audiences. I wrote two articles in the style of the Scientific American.\n\nConcrete Jungles: Affulence and Environmental Health in American Cities is an advance discussing Schell et al. 2020 and the implications of historical planning discrimination on current urban ecological health.\nSeeing Cities Clearly: How AI and Drones Are Rewriting the Urban Map is a feature length article discussing opportunities for drones and AI modeling to improve efficiency in urban and regional planning.\n\n\n\n\nSpring 2025\n\nQuantitative Reasoning for Ecosystem Science- ESS 330\nIn the spring of 2025 I took a class on quantitative reasoning based in R. The course focused on applying instruction on coding in R to applications in statistics and data science. I found this class to be one of my most valuable classes so far, giving me a solid base of knowledge for future coding, web design and data analytics projects.\n\nBuilding a personal website:\n\nFor this class I built a personal website with Github Pages.\nCreated and managed a github repo for access to all the code.\nBegan reformatting file management across my personal systems.\nInvolved extensive troubleshooting and became familiar with R and Terminal syntax.\n\n\n\nCoursework:\nThe rest of the work completed for this class can be found on the github pages site I created for the coursework. It can be found on this site also built with Github Pages.\n\n\n\nSustainability Science - ESS 312\nIn this course I conducted a research project exploring impacts and perceptions the Starship food delivery robots used by Grubhub to deliver food from the dining halls and student center around campus. This research conducted throughout the 2025 Spring semester, interviewed students, staff, and faculty in the Warner College of Natural Resources to collect initial impressions of the Starship robots in the months after their January 2025 introduction.\nThis report collected words and phrases for future Q-methodology research in addition to forming a baseline understanding of opinions of within the College of Natural Resources. Our research showed, at best, neutral feeling regarding the food delivery robots with negative undertones. Most of the negative feedback related to questions of inefficient spending, more traffic and obstacles on the sidewalks and at intersections as well as a general lack of need.\n CSU Food Delivery Robots Final Report \n\n\nLife Cycle Assessment for Sustainability - ESS 555\nIn this course I completed a comparative LCA assessing the sustainability of two liquid hand soap packaging options. The project was conducted in three main phases:\n\nGoal & Scope Report\nLife Cycle Inventory Report\nLife Cycle Impact Assessment\n\nThe comparative LCA resulted in mixed impacts between conventional PET bottles with PP caps and composite laminate pouches. That said, my assessment did not align with the claims of significant sustainability improvements made by refill pouch manufacturers based on my predefined system assumptions and constraints. This result may differ in a different scenario, particularly with a more complex logistics system. Throughout the course, I learned how to use OpenLCA and conduct life cycle assessments including sourcing data and defining parameters for the assessment."
-  },
-  {
-    "objectID": "projects.html#section-2",
-    "href": "projects.html#section-2",
-    "title": "Projects",
-    "section": "2024",
-    "text": "2024\n\nFall 2024\n\nWatershed Sustainability - WR204\nIn the fall of 2024 I took a class on watershed science. The final project was a collaborative river reach assessment based on data released by the City of Fort Collins.\n Poudre River Reach Assessment"
+    "text": "Science communication, feature writing, and public-facing work.\n\n\n\n\nCO 301B · August 2025\n\n\nSeeing Cities Clearly\n\nFeature Article Urban Planning GIS AI\n\nA feature article exploring how AI-powered drone remote sensing and machine learning are transforming urban planning and disaster resilience. Examines real-world applications in land-use classification, urban forest management, historic preservation, and disaster risk mapping.\n\nRead (PDF)\n\n\n\n\n\nCO 301B · July 2025\n\n\nConcrete Jungles\n\nAdvance Article Urban Ecology Environmental Justice\n\nAn advance article on Schell et al. (2020) examining how systemic racism and economic inequality shape the ecological health of American cities, from biodiversity and air quality to climate resilience, and what justice-centered urban planning can do about it.\n\nRead (PDF)"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Zachary Cramton",
     "section": "",
-    "text": "Hello! I’m a student at Colorado State University with a passion for sustainable development, urban ecology and regional planning. As I wrap up my undergrad, I’m searching for positions in urban forestry or ecology and enviornmental or urban planning. I hope to gain some work experience to support grad school opportunities in the future."
+    "text": "Zachary Cramton\nUrban Planning · Environmental Science · Spatial Data\n\nLinkedIn GitHub Email\n\n\nBeaver Complex - Fourmile Creek, Fairplay, Colorado\n\n\n\nI’m an urban and environmental planner based in Fort Collins, Colorado, with a B.S. in Ecosystem Science and Sustainability at Colorado State University. My work sits at the intersection of environmental planning, active transportation, and data — building tools, writing policy, and translating technical findings into decisions that improve how communities work with their landscapes.\nRecently I’ve led a web and records overhaul for CSU’s Alternative Transportation Fee Advisory Board, authored a micromobility impact report for the Association for Commuter Transportation, and developed a spatial screening tool for beaver conflict and restoration analysis in ArcGIS Pro. My capstone project is piloting the migration of NASA GLOBE Observer’s Mosquito Habitat Mapper to the CitSci platform in Fort Collins.\nI’m currently seeking entry-level roles in transportation planning, environmental consulting, or GIS. Reach me at zachary@cramton.com."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "A selection of professional, applied, and academic work in urban and environmental planning, GIS, and sustainability science."
+  },
+  {
+    "objectID": "projects.html#photography",
+    "href": "projects.html#photography",
+    "title": "Portfolio",
+    "section": "Photography",
+    "text": "Photography\n\nI’m an amateur photographer with an interest in macro, landscape, nature, and aerial drone photography along the Colorado Front Range. A dedicated gallery is in development.\nRemote Pilot Certificate (FAA Part 107): Issued Jan 2026."
   }
 ]
