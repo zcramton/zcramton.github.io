@@ -1,18 +1,356 @@
 /*-- scss:defaults --*/
-// Defining SCSS Vars
 
-// Colors
-$darkblue: #053660;
-$teal: #147C91;
-$darkgray: #333333;
-$lightgray: #64605f;
-$darkgreen: #0e6426;
-$yelloworange: #f7b708;
-$csugold: #C8C372;
-$csugreen: #1E4D2B;
-$_80-black: #59595B;
+// Google Fonts — Outfit (headings) + DM Sans (body/UI)
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600&family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;1,9..40,400&display=swap');
+
+// ── Color Palette ──────────────────────────────────────────────
+$slate-dark:        #1c2b3a;   // navbar, heading text
+$slate-mid:         #2c3e55;   // navbar hover, dark surfaces
+$slate-blue:        #4a6fa5;   // primary accent, links
+$slate-blue-hover:  #6889be;   // link hover, lighter accent
+$slate-blue-dim:    #3a5a8a;   // active states, darker accent
+
+$warm-charcoal:     #2d2d2b;   // body text
+$warm-white:        #f8f5f0;   // page background (Sandstone native)
+$card-bg:           #ffffff;   // card surfaces
+$border-subtle:     #e0dcd6;   // card borders, dividers
+$text-muted:        #6b6b68;   // secondary text, metadata
+
+// ── Typography ────────────────────────────────────────────────
+$font-family-sans-serif: 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+$headings-font-family:   'Outfit', sans-serif;
+$headings-font-weight:   600;
+$headings-color:         $slate-dark;
+$font-size-root:         16px;
+$line-height-base:       1.7;
+
+// ── Base Colors ───────────────────────────────────────────────
+$body-bg:            $warm-white;
+$body-color:         $warm-charcoal;
+$link-color:         $slate-blue;
+$link-hover-color:   $slate-blue-hover;
+$link-decoration:    none;
+
+// ── Navbar ────────────────────────────────────────────────────
+$navbar-bg:          $slate-dark;
+$navbar-fg:          #e8e3db;   // warm off-white navbar text
+$navbar-hl:          $slate-blue-hover;
+
+// ── TOC ───────────────────────────────────────────────────────
+$toc-color:          $slate-blue;
+$toc-active-border:  $slate-blue;
+$toc-font-size:      0.875rem;
 
 
-// Base document colors
-$navbar-bg: $darkgreen; //navbar
-$navbar-fg: $yelloworange; //navbar foregorund elements
+/*-- scss:rules --*/
+
+// ── Headings ──────────────────────────────────────────────────
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Outfit', sans-serif;
+  font-weight: 600;
+  color: $slate-dark;
+  line-height: 1.25;
+}
+
+h1 { font-size: 2rem; }
+h2 { font-size: 1.5rem; margin-top: 2rem; }
+h3 { font-size: 1.2rem; }
+h4 { font-size: 1rem; }
+
+// ── Navbar ────────────────────────────────────────────────────
+.navbar {
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 500;
+  letter-spacing: 0.01em;
+
+  .navbar-brand {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 600;
+    color: $navbar-fg !important;
+    letter-spacing: -0.01em;
+  }
+
+  .nav-link {
+    color: rgba(232, 227, 219, 0.85) !important;
+    transition: color 0.15s ease;
+
+    &:hover, &.active {
+      color: $navbar-fg !important;
+    }
+  }
+}
+
+// ── Links ─────────────────────────────────────────────────────
+a {
+  color: $slate-blue;
+  text-decoration: none;
+  transition: color 0.15s ease;
+
+  &:hover {
+    color: $slate-blue-hover;
+    text-decoration: underline;
+  }
+}
+
+// ── Page layout ───────────────────────────────────────────────
+.page-layout-article {
+  max-width: 860px;
+}
+
+// ── Project card grid ─────────────────────────────────────────
+// Usage: wrap cards in a div with class="project-grid"
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+  margin: 1.5rem 0 2.5rem;
+}
+
+.project-card {
+  background: $card-bg;
+  border: 1px solid $border-subtle;
+  border-top: 3px solid $slate-blue;
+  border-radius: 6px;
+  padding: 1.4rem 1.5rem;
+  display: flex;
+  flex-direction: column;
+
+  h3 {
+    font-size: 1.05rem;
+    margin: 0 0 0.3rem;
+    color: $slate-dark;
+  }
+
+  .card-meta {
+    font-size: 0.78rem;
+    color: $text-muted;
+    margin-bottom: 0.75rem;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+  }
+
+  .card-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem;
+    margin-bottom: 0.85rem;
+
+    .tag {
+      font-size: 0.72rem;
+      padding: 0.15rem 0.55rem;
+      border-radius: 20px;
+      background: rgba(74, 111, 165, 0.1);
+      color: $slate-blue-dim;
+      font-weight: 500;
+    }
+  }
+
+  p {
+    font-size: 0.9rem;
+    color: $text-muted;
+    line-height: 1.6;
+    flex-grow: 1;
+    margin-bottom: 1rem;
+  }
+
+  .card-links {
+    display: flex;
+    gap: 1rem;
+    margin-top: auto;
+
+    a {
+      font-size: 0.82rem;
+      font-weight: 500;
+      color: $slate-blue;
+      text-decoration: none;
+      display: flex;
+      align-items: center;
+      gap: 0.25rem;
+
+      &:hover {
+        color: $slate-blue-hover;
+        text-decoration: underline;
+      }
+    }
+  }
+}
+
+// ── Writing / listing table ────────────────────────────────────
+.listing-table table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.92rem;
+
+  thead tr {
+    border-bottom: 2px solid $slate-blue;
+  }
+
+  th {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 600;
+    color: $slate-dark;
+    padding: 0.6rem 0.75rem 0.6rem 0;
+    text-align: left;
+  }
+
+  td {
+    padding: 0.7rem 0.75rem 0.7rem 0;
+    border-bottom: 1px solid $border-subtle;
+    color: $warm-charcoal;
+    vertical-align: top;
+  }
+
+  tr:hover td {
+    background: rgba(74, 111, 165, 0.04);
+  }
+
+  a {
+    color: $slate-dark;
+    font-weight: 500;
+
+    &:hover {
+      color: $slate-blue;
+      text-decoration: underline;
+    }
+  }
+}
+
+
+// ── Hero section ──────────────────────────────────────────────
+.hero-banner {
+  position: relative;
+  width: 100%;
+  min-height: 55vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  background-color: #050a12;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.hero-banner::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: rgba(5, 10, 20, 0.45);
+  z-index: 1;
+}
+
+.hero-content {
+  position: relative;
+  z-index: 2;
+  text-align: center;
+  padding: 1.5rem 2rem 2rem;
+  max-width: 620px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.hero-headshot {
+  width: 256px;
+  height: 256px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid rgba(255, 255, 255, 0.7);
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.5);
+  margin-bottom: 1.5rem;
+}
+
+.hero-name {
+  display: block;
+  font-family: 'Outfit', sans-serif !important;
+  font-size: clamp(1.9rem, 4.5vw, 3rem) !important;
+  font-weight: 300 !important;
+  letter-spacing: 0.1em;
+  color: #f0ece6 !important;
+  margin: 0 0 0.5rem !important;
+  text-transform: uppercase;
+  border: none !important;
+  padding: 0 !important;
+}
+
+.hero-subtitle {
+  display: block;
+  font-family: 'DM Sans', sans-serif;
+  font-size: 0.82rem;
+  font-weight: 400;
+  color: rgba(215, 210, 202, 0.8);
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  margin: 0 0 2rem;
+}
+
+.hero-links {
+  display: flex;
+  gap: 0.6rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.hero-links a {
+  font-family: 'DM Sans', sans-serif;
+  font-size: 0.76rem;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  color: rgba(225, 220, 212, 0.88);
+  border: 1px solid rgba(225, 220, 212, 0.38);
+  padding: 0.38rem 0.95rem;
+  border-radius: 3px;
+  text-decoration: none !important;
+  transition: background 0.15s ease, border-color 0.15s ease, color 0.15s ease;
+}
+
+.hero-links a:hover {
+  background: rgba(255, 255, 255, 0.1);
+  border-color: rgba(225, 220, 212, 0.7);
+  color: #ffffff;
+}
+
+.hero-caption {
+  position: absolute;
+  bottom: 0.75rem;
+  right: 1rem;
+  z-index: 3;
+  font-family: 'DM Sans', sans-serif;
+  font-size: 0.68rem;
+  color: rgba(180, 175, 168, 0.75);
+  font-weight: 500;
+  letter-spacing: 0.04em;
+}
+
+.hero-content p {
+  margin: 0;
+  padding: 0;
+}
+
+.about-section {
+  max-width: 960px;
+  margin: 2rem auto;
+  padding: 0 1.5rem;
+  font-size: 1rem;
+  line-height: 1.8;
+  text-align: center;
+}
+
+// ── Footer ────────────────────────────────────────────────────
+.nav-footer {
+  font-size: 0.82rem;
+  color: $text-muted;
+  border-top: 1px solid $border-subtle;
+}
+
+// ── Utility ───────────────────────────────────────────────────
+.text-muted { color: $text-muted !important; }
+
+.section-intro {
+  font-size: 1.05rem;
+  color: $text-muted;
+  max-width: 680px;
+  margin-bottom: 2rem;
+  line-height: 1.7;
+}
