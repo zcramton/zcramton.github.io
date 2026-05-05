@@ -22,8 +22,6 @@ Piloting the migration of NASA GLOBE Observer's Mosquito Habitat Mapper to the C
 
 :::{.card-links}
 Coming Soon!
-[Report (PDF)](media/ess440_capstone_report.pdf){target="_blank"}
-[Presentation (PDF)](media/ess440_capstone_presentation.pdf){target="_blank"}
 :::
 :::
 
@@ -38,9 +36,8 @@ Professional · Sring 2026
 Authored the 2025 Transportation Demand Management Impact Report entry for Colorado State University's micromobility program on behalf of ATFAB and CSU Transportation, published by the Association for Commuter Transportation. The report documents ridership data, program outcomes, and policy recommendations for campus active transportation infrastructure.
 
 :::{.card-links}
-Coming Soon!
-[Full Report (PDF)](media/act_tdm_report.pdf){target="_blank"}
-[CSU Feature (p. 22)](media/act_tdm_report.pdf#page=22){target="_blank"}
+[Full Report (PDF)](media/act_2025tdm_report.pdf){target="_blank"}
+[CSU Feature (p. 22)](media/act_2025tdm_report.pdf#page=22){target="_blank"}
 :::
 :::
 
@@ -79,10 +76,6 @@ Professional · 2024–2025
 [Web Design]{.tag} [Knowledge Management]{.tag} [Transportation]{.tag}
 :::
 Led a comprehensive web redesign and records overhaul for CSU's Alternative Transportation Fee Advisory Board. Rebuilt the public-facing site for clarity and accessibility, and developed an internal knowledge database to standardize institutional records, meeting documentation, and policy tracking across board transitions.
-
-:::{.card-links}
-[ATFAB Website](https://atfab.colostate.edu){target="_blank"}
-:::
 :::
 
 :::{.project-card}

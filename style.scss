@@ -298,7 +298,7 @@ a {
   letter-spacing: 0.07em;
   text-transform: uppercase;
   color: rgba(225, 220, 212, 0.88);
-  border: 1px solid rgba(225, 220, 212, 0.38);
+  border: 1px solid rgba(225, 220, 212, 0.3);
   padding: 0.38rem 0.95rem;
   border-radius: 3px;
   text-decoration: none !important;
@@ -307,7 +307,7 @@ a {
 
 .hero-links a:hover {
   background: rgba(255, 255, 255, 0.1);
-  border-color: rgba(225, 220, 212, 0.7);
+  border-color: rgba(225, 220, 212, 0.5);
   color: #ffffff;
 }
 
@@ -318,7 +318,7 @@ a {
   z-index: 3;
   font-family: 'DM Sans', sans-serif;
   font-size: 0.68rem;
-  color: rgba(180, 175, 168, 0.75);
+  color: rgba(180, 175, 168, 1);
   font-weight: 500;
   letter-spacing: 0.04em;
 }
@@ -326,15 +326,6 @@ a {
 .hero-content p {
   margin: 0;
   padding: 0;
-}
-
-.about-section {
-  max-width: 960px;
-  margin: 2rem auto;
-  padding: 0 1.5rem;
-  font-size: 1rem;
-  line-height: 1.8;
-  text-align: center;
 }
 
 // ── Footer ────────────────────────────────────────────────────
