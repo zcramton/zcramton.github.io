@@ -35,7 +35,7 @@ toc: false
 
 I'm an urban and environmental planner based in Fort Collins, Colorado, with a B.S. in Ecosystem Science and Sustainability at Colorado State University. My work sits at the intersection of environmental planning, active transportation, and data — building tools, writing policy, and translating technical findings into decisions that improve how communities work with their landscapes.
 
-Recently I've led a web and records overhaul for CSU's Alternative Transportation Fee Advisory Board, authored a micromobility impact report for the Association for Commuter Transportation, and developed a [spatial screening tool](https://github.com/zcramton/csu_nr_426/tree/main/FinalProject){target="_blank"} for beaver conflict and restoration analysis in ArcGIS Pro. My capstone project piloted the migration of NASA GLOBE Observer's Mosquito Habitat Mapper to the CitSci platform in Fort Collins.
+Recently I've led a web and records overhaul for CSU's Alternative Transportation Fee Advisory Board, authored a [micromobility impact report](media/act_2025tdm_report.pdf#page=22){target="_blank"} for the Association for Commuter Transportation, and developed a [spatial screening tool](https://github.com/zcramton/csu_nr_426/tree/main/FinalProject){target="_blank"} for beaver conflict and restoration analysis in ArcGIS Pro. My capstone project piloted the migration of NASA GLOBE Observer's Mosquito Habitat Mapper to the CitSci platform in Fort Collins.
 
 I'm currently seeking entry-level roles in transportation planning, environmental consulting, or GIS. Reach me at [zachary@cramton.com](mailto:zachary@cramton.com).
 
