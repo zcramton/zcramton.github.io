@@ -21,13 +21,13 @@ ESS 440 Capstone · Spring 2026
 Piloting the migration of NASA GLOBE Observer's Mosquito Habitat Mapper to the CitSci platform to improve data redundancy and expand community reporting capacity in Fort Collins. The final report documents project outcomes, platform assessment, stakeholder engagement, and ongoing implementation challenges.
 
 :::{.card-links}
-Coming Soon!
+[Report (PDF)](media/ess440_MosquitoMapperMigrationReport.pdf){target="_blank"}
 :::
 :::
 
 :::{.project-card}
 :::{.card-meta}
-Professional · Sring 2026
+Professional · Spring 2026
 :::
 ### CSU Micromobility TDM Impact Report
 :::{.card-tags}
