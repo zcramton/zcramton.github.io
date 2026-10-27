@@ -19,7 +19,7 @@ Spring 2026
 ### Beaver Conflict & Restoration Screening Tool
 
 ::: card-tags
-[ArcGIS Pro]{.tag} [Python]{.tag} [Risk Screening] {.tag} [Hydrology]{.tag}
+[ArcGIS Pro]{.tag} [Python]{.tag} [Risk Screening]{.tag} [Hydrology]{.tag}
 :::
 
 Screens stream segments for human-beaver conflict risk and restoration opportunity, then summarizes results by county, watershed, or custom planning area. A Python tool for ArcGIS Pro that combines BRAT modeled dam capacity with NLCD land cover and impervious surface, uses ESRI Living Atlas services as default inputs, and flags low-confidence land cover for field verification.
@@ -61,7 +61,8 @@ Capstone · Spring 2026
 Explored whether the CitSci platform could back up and expand community mosquito habitat reporting in Fort Collins by piloting a migration of NASA GLOBE Observer’s Mosquito Habitat Mapper. The final report covers project outcomes, platform assessment, stakeholder engagement, and ongoing implementation challenges.
 
 ::: card-links
-[Report (PDF)](media/ess440_MosquitoMapperMigrationReport.pdf){target="_blank"} [ArcGIS StoryMap](https://arcg.is/CS8f)
+[Report (PDF)](media/ess440_MosquitoMapperMigrationReport.pdf){target="_blank"}
+[ArcGIS StoryMap](https://arcg.is/CS8f){target="_blank"}
 :::
 ::::::
 :::::::::::::::
@@ -117,7 +118,7 @@ Spring 2026
 ### The Spoke — Knowledge Database
 
 ::: card-tags
-[Knowledge Management]]{.tag} [Process Documentation]{.tag} [Business Operations]{.tag}
+[Knowledge Management]{.tag} [Process Documentation]{.tag} [Business Operations]{.tag}
 :::
 
 Gives student mechanics and staff at The Spoke, CSU’s on-campus bike shop, a searchable source for program documentation, metadata summaries, parts sourcing, and operating procedures.
@@ -137,7 +138,7 @@ Gives student mechanics and staff at The Spoke, CSU’s on-campus bike shop, a s
 Made the Alternative Transportation Fee Advisory Board’s public information easier to find and kept institutional records consistent across board transitions. Rebuilt the public site for clarity and accessibility, and reorganized internal filesystem for records, meeting documentation, and policy tracking.
 
 ::: card-links
-[ATFAB Webpage](atfab.colostate.edu)
+[ATFAB Webpage](https://atfab.colostate.edu){target="_blank"}
 :::
 :::::
 
@@ -182,7 +183,7 @@ A mixed-methods study assessing student perceptions of Starship food delivery ro
 ## Photography
 
 ::: section-intro
-I'm an amateur photographer with an interest in macro, landscape, street, and aerial drone photography. I volunteer with the City of Fort Collins Natural Areas to capture events, restoration work, and programs in support of the cities outreach and public communication efforts.
+I'm an amateur photographer with an interest in macro, landscape, street, and aerial drone photography. I volunteer with the City of Fort Collins Natural Areas to capture events, restoration work, and programs in support of the City's outreach and public communication efforts.
 
 A dedicated gallery is in development.
 :::
