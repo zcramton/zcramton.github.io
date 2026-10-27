@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.36">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -12,10 +12,13 @@
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
-code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -40,10 +43,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-4ae35165fdf0450ae813f3c636f95a04.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-6f32ffd6d2dd7467bb13eb43ce68eaf9.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
@@ -103,10 +106,6 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Portfolio</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./writing.html"> 
-<span class="menu-text">Writing</span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link" href="./media/cramtonz_resume_sp26.pdf" target="_blank"> 
 <span class="menu-text">Resume</span></a>
   </li>  
@@ -133,20 +132,20 @@ ul.task-list li input[type="checkbox"] {
 <div class="hero-content">
 <p><img src="media/zc-headshot.jpg" class="hero-headshot img-fluid"></p>
 <p><span class="hero-name">Zachary Cramton</span></p>
-<p><span class="hero-subtitle">Urban Planning · Environmental Science · Spatial Data</span></p>
+<p><span class="hero-subtitle">Spatial Data for Resilient, Livable Communities</span></p>
 <div class="hero-links">
 <p><a href="https://www.linkedin.com/in/zcramton" target="_blank">LinkedIn</a> <a href="https://github.com/zcramton" target="_blank">GitHub</a> <a href="mailto:zachary@cramton.com">Email</a></p>
 </div>
 </div>
-<p><span class="hero-caption">Beaver Complex - Fourmile Creek, Fairplay, Colorado ©2026 Zachary Cramton</span></p>
+<p><span class="hero-caption">Fourmile Creek, Fairplay, CO ©2026 Zachary Cramton</span></p>
 </div>
 </div>
 <div class="about-section page-columns page-full">
 <div class="column-screen" style="display: flex; justify-content: center; padding: 2rem 1.5rem;">
 <div style="max-width: 680px; font-size: 1rem; line-height: 1.8; text-align: center;">
-<p>I’m an urban and environmental planner based in Fort Collins, Colorado, with a B.S. in Ecosystem Science and Sustainability from Colorado State University. My work sits at the intersection of environmental planning, placemaking, and data analysis — building tools, writing policy, and translating technical findings into decisions that improve how communities live in their landscapes.</p>
-<p>Recently I’ve led a web and records overhaul for CSU’s Alternative Transportation Fee Advisory Board, authored a <a href="media/act_2025tdm_report.pdf#page=22" target="_blank">micromobility impact report</a> for the Association for Commuter Transportation, and developed a <a href="https://github.com/zcramton/csu_nr_426/tree/main/FinalProject" target="_blank">spatial screening tool</a> for beaver conflict and restoration analysis in ArcGIS Pro. My <a href="media/ess440_MosquitoMapperMigration.pdf">capstone project</a> piloted the migration of NASA GLOBE Observer’s Mosquito Habitat Mapper to the CitSci platform in Fort Collins.</p>
-<p>I’m currently seeking entry-level roles in urban and environmental planning, environmental consulting, or GIS. Reach me at <a href="mailto:zachary@cramton.com">zachary@cramton.com</a>.</p>
+<p>The greatest potential to improve daily life is in the places people live and build, where environmental damage is concentrated and the most people feel its effects. Restoring remote forests and habitat is important for the broader environment, but it doesn’t always have the visible, direct impact needed to build support and funding for future projects.</p>
+<p>I studied Ecosystem Science and Sustainability at Colorado State University, specializing in climate resilience and public education. My work includes transportation planning, environmental analysis, and GIS projects. I have directed $1.5 million in matching funds to successful grant applications totaling over $7 million for multimodal transportation infrastructure.</p>
+<p>Recently I’ve led a web and records overhaul for CSU’s Alternative Transportation Fee Advisory Board, authored a <a href="media/act_2025tdm_report.pdf#page=22" target="_blank">micromobility impact report</a> for the Association for Commuter Transportation, and developed a <a href="https://github.com/zcramton/csu_nr_426/tree/main/FinalProject" target="_blank">spatial screening tool</a> for beaver conflict and restoration analysis in ArcGIS Pro with ArcPy and the Spatial Analysis Toolbox. My <a href="media/ess440_MosquitoMapperMigrationReport.pdf">capstone project</a> piloted the migration of NASA GLOBE Observer’s Mosquito Habitat Mapper to the CitSci platform in Fort Collins.</p>
 </div>
 </div>
 </div>

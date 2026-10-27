@@ -1,17 +1,24 @@
 [
   {
-    "objectID": "writing.html",
-    "href": "writing.html",
-    "title": "Writing",
+    "objectID": "projects_old.html",
+    "href": "projects_old.html",
+    "title": "Portfolio",
     "section": "",
-    "text": "Science communication, feature writing, and public-facing work.\n\n\n\n\nCO 301B · August 2025\n\n\nSeeing Cities Clearly\n\nFeature Article Urban Planning GIS AI\n\nA feature article exploring how AI-powered drone remote sensing and machine learning are transforming urban planning and disaster resilience. Examines real-world applications in land-use classification, urban forest management, historic preservation, and disaster risk mapping.\n\nRead (PDF)\n\n\n\n\n\nCO 301B · July 2025\n\n\nConcrete Jungles\n\nAdvance Article Urban Ecology Environmental Justice\n\nAn advance article on Schell et al. (2020) examining how systemic racism and economic inequality shape the ecological health of American cities, from biodiversity and air quality to climate resilience, and what justice-centered urban planning can do about it.\n\nRead (PDF)"
+    "text": "A selection of professional, applied, and academic work in urban and environmental planning, GIS, and sustainability science."
+  },
+  {
+    "objectID": "projects_old.html#photography",
+    "href": "projects_old.html#photography",
+    "title": "Portfolio",
+    "section": "Photography",
+    "text": "Photography\n\nI’m an amateur photographer with an interest in macro, landscape, nature, and aerial drone photography along the Colorado Front Range. I volunteer with the City of Fort Collins Natural Areas to capture events, restoration work, and programs in support of the cities outreach and public communication efforts.\nA dedicated gallery is in development."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Zachary Cramton",
     "section": "",
-    "text": "Zachary Cramton\nUrban Planning · Environmental Science · Spatial Data\n\nLinkedIn GitHub Email\n\n\nBeaver Complex - Fourmile Creek, Fairplay, Colorado ©2026 Zachary Cramton\n\n\n\n\n\nI’m an urban and environmental planner based in Fort Collins, Colorado, with a B.S. in Ecosystem Science and Sustainability from Colorado State University. My work sits at the intersection of environmental planning, placemaking, and data analysis — building tools, writing policy, and translating technical findings into decisions that improve how communities live in their landscapes.\nRecently I’ve led a web and records overhaul for CSU’s Alternative Transportation Fee Advisory Board, authored a micromobility impact report for the Association for Commuter Transportation, and developed a spatial screening tool for beaver conflict and restoration analysis in ArcGIS Pro. My capstone project piloted the migration of NASA GLOBE Observer’s Mosquito Habitat Mapper to the CitSci platform in Fort Collins.\nI’m currently seeking entry-level roles in urban and environmental planning, environmental consulting, or GIS. Reach me at zachary@cramton.com."
+    "text": "Zachary Cramton\nSpatial Data for Resilient, Livable Communities\n\nLinkedIn GitHub Email\n\n\nFourmile Creek, Fairplay, CO ©2026 Zachary Cramton\n\n\n\n\n\nThe greatest potential to improve daily life is in the places people live and build, where environmental damage is concentrated and the most people feel its effects. Restoring remote forests and habitat is important for the broader environment, but it doesn’t always have the visible, direct impact needed to build support and funding for future projects.\nI studied Ecosystem Science and Sustainability at Colorado State University, specializing in climate resilience and public education. My work includes transportation planning, environmental analysis, and GIS projects. I have directed $1.5 million in matching funds to successful grant applications totaling over $7 million for multimodal transportation infrastructure.\nRecently I’ve led a web and records overhaul for CSU’s Alternative Transportation Fee Advisory Board, authored a micromobility impact report for the Association for Commuter Transportation, and developed a spatial screening tool for beaver conflict and restoration analysis in ArcGIS Pro with ArcPy and the Spatial Analysis Toolbox. My capstone project piloted the migration of NASA GLOBE Observer’s Mosquito Habitat Mapper to the CitSci platform in Fort Collins."
   },
   {
     "objectID": "projects.html",
@@ -21,10 +28,31 @@
     "text": "A selection of professional, applied, and academic work in urban and environmental planning, GIS, and sustainability science."
   },
   {
+    "objectID": "projects.html#featured",
+    "href": "projects.html#featured",
+    "title": "Portfolio",
+    "section": "Featured",
+    "text": "Featured\n\n\n\nSpring 2026\n\n\nBeaver Conflict & Restoration Analysis Tool\n\nArcGIS Pro Python Spatial Analysis Hydrology\n\nA spatial screening tool built in Python for ArcGIS Pro that intersects BRAT stream network capacity data with NLCD land cover to score stream segments by human-beaver conflict risk and restoration opportunity. Designed to support planning decisions at the county, watershed, or custom AOI scale using ESRI Living Atlas services as default inputs.\n\nGitHub\n\n\n\n\n\nSpring 2026\n\n\nCSU Micromobility TDM Impact Report\n\nTransportation Demand Management Micromobility Policy\n\nAuthored the 2025 Transportation Demand Management Impact Report entry for Colorado State University’s micromobility program on behalf of ATFAB and CSU Transportation, published by the Association for Commuter Transportation. The report documents ridership data, program outcomes, and policy recommendations for campus active transportation infrastructure.\n\nFull Report (PDF) CSU Feature (p. 22)\n\n\n\n\n\nCapstone · Spring 2026\n\n\nNASA GLOBE Observer — CitSci Migration\n\nCitizen Science Data Management Urban Ecology\n\nPiloting the migration of NASA GLOBE Observer’s Mosquito Habitat Mapper to the CitSci platform to explore opportunities to improve data redundancy and expand community reporting capacity in Fort Collins. The final report documents project outcomes, platform assessment, stakeholder engagement, and ongoing implementation challenges.\n\nReport (PDF) ArcGIS StoryMap"
+  },
+  {
+    "objectID": "projects.html#writing",
+    "href": "projects.html#writing",
+    "title": "Portfolio",
+    "section": "Writing",
+    "text": "Writing\n\n\n\nCO 301B · August 2025\n\n\nSeeing Cities Clearly\n\nFeature Article Urban Planning GIS AI\n\nA feature article exploring how AI-powered drone remote sensing and machine learning are transforming urban planning and disaster resilience. Examines real-world applications in land-use classification, urban forest management, historic preservation, and disaster risk mapping.\n\nRead (PDF)\n\n\n\n\n\nCO 301B · July 2025\n\n\nConcrete Jungles\n\nAdvance Article Urban Ecology Environmental Justice\n\nAn advance article discussing Schell et al. (2020) examining how systemic racism and economic inequality shape the ecological health of American cities, from biodiversity and air quality to climate resilience, exploring what justice-centered urban planning can do about it.\n\nRead (PDF)"
+  },
+  {
+    "objectID": "projects.html#more-work",
+    "href": "projects.html#more-work",
+    "title": "Portfolio",
+    "section": "More Work",
+    "text": "More Work\n\n\n\nSpring 2026\n\n\nThe Spoke — Knowledge Database\n\nProcess Management Record Keeping SOPs\n\nDesigned and built an internal knowledge database for The Spoke, CSU’s on-campus bike cooperative, consolidating product documentation, service history frameworks, parts sourcing references, and operational procedures into a structured, searchable system for volunteer mechanics and staff.\n\n\n\n\n2024–2025\n\n\nATFAB Web Redesign & Records System\n\nWeb Design Public Communication Transportation\n\nLed a comprehensive web redesign and records overhaul for CSU’s Alternative Transportation Fee Advisory Board. Rebuilt the public-facing site for clarity and accessibility, and developed an internal knowledge database to standardize institutional records, meeting documentation, and policy tracking across board transitions.\n\n\n\n\nSpring 2025\n\n\nLife Cycle Assessment — Soap Refill Packaging\n\nLCA Sustainability Science OpenLCA ecoinvent\n\nA comparative life cycle inventory and impact assessment of plastic bottle versus laminate pouch soap refill containers, using OpenLCA with the ecoinvent 3.11 database and ReCiPe 2016 midpoint methodology. Monte Carlo uncertainty analysis was used to evaluate result robustness. Findings suggest refill pouches carry equal or greater environmental impact than bottles across most impact categories — contrary to common marketing claims.\n\nLCI Report (PDF) LCIA Report (PDF)\n\n\n\n\n\nSpring 2025\n\n\nStarship Delivery Robots — Campus Perception Study\n\nPublic Engagement Transportation Sustainability Mixed Method Research\n\nA mixed-methods study assessing student perceptions of Starship food delivery robots at CSU using in-person interviews, Likert-scale surveys, and thematic analysis. Findings revealed predominantly negative sentiment centered on inefficiency, resource misprioritization, and concerns that the robots displace more sustainable alternatives like walking and cycling.\n\nReport (PDF)"
+  },
+  {
     "objectID": "projects.html#photography",
     "href": "projects.html#photography",
     "title": "Portfolio",
     "section": "Photography",
-    "text": "Photography\n\nI’m an amateur photographer with an interest in macro, landscape, nature, and aerial drone photography along the Colorado Front Range. A dedicated gallery is in development.\nRemote Pilot Certificate (FAA Part 107): Issued Jan 2026."
+    "text": "Photography\n\nI’m an amateur photographer with an interest in macro, landscape, nature, and aerial drone photography along the Colorado Front Range. I volunteer with the City of Fort Collins Natural Areas to capture events, restoration work, and programs in support of the cities outreach and public communication efforts.\nA dedicated gallery is in development."
   }
 ]
