@@ -16,13 +16,13 @@ A selection of professional, applied, and academic work in urban and environment
 Spring 2026
 :::
 
-### Beaver Conflict & Restoration Analysis Tool
+### Beaver Conflict & Restoration Screening Tool
 
 ::: card-tags
-[ArcGIS Pro]{.tag} [Python]{.tag} [Spatial Analysis]{.tag} [Hydrology]{.tag}
+[ArcGIS Pro]{.tag} [Python]{.tag} [Risk Screening] {.tag} [Hydrology]{.tag}
 :::
 
-A spatial screening tool built in Python for ArcGIS Pro that intersects BRAT stream network capacity data with NLCD land cover to score stream segments by human-beaver conflict risk and restoration opportunity. Designed to support planning decisions at the county, watershed, or custom AOI scale using ESRI Living Atlas services as default inputs.
+Screens stream segments for human-beaver conflict risk and restoration opportunity, then summarizes results by county, watershed, or custom planning area. A Python tool for ArcGIS Pro that combines BRAT modeled dam capacity with NLCD land cover and impervious surface, uses ESRI Living Atlas services as default inputs, and flags low-confidence land cover for field verification.
 
 ::: card-links
 [GitHub](https://github.com/zcramton/csu_nr_426/tree/main/FinalProject){target="_blank"}
@@ -31,16 +31,16 @@ A spatial screening tool built in Python for ArcGIS Pro that intersects BRAT str
 
 :::::: project-card
 ::: card-meta
-Spring 2026
+Fall 2025
 :::
 
-### CSU Micromobility TDM Impact Report
+### CSU Micromobility Impact Report
 
 ::: card-tags
-[Transportation Demand Management]{.tag} [Micromobility]{.tag} [Policy]{.tag}
+[Transportation Demand Management]{.tag} [Micromobility]{.tag} [Program Evaluation]{.tag} [Policy]{.tag}
 :::
 
-Authored the 2025 Transportation Demand Management Impact Report entry for Colorado State University's micromobility program on behalf of ATFAB and CSU Transportation, published by the Association for Commuter Transportation. The report documents ridership data, program outcomes, and policy recommendations for campus active transportation infrastructure.
+Documents the performance of CSU’s student fee-funded micromobility program in its first year, with ridership data, program outcomes, and policy recommendations for campus active transportation infrastructure. Written on behalf of ATFAB and CSU Transportation for the Association for Commuter Transportation’s 2025 Transportation Demand Management Impact Report.
 
 ::: card-links
 [Full Report (PDF)](media/act_2025tdm_report.pdf){target="_blank"} [CSU Feature (p. 22)](media/act_2025tdm_report.pdf#page=22){target="_blank"}
@@ -52,13 +52,13 @@ Authored the 2025 Transportation Demand Management Impact Report entry for Color
 Capstone · Spring 2026
 :::
 
-### NASA GLOBE Observer — CitSci Migration
+### NASA GLOBE Mosquito Habitat Mapper — CitSci Migration
 
 ::: card-tags
-[Citizen Science]{.tag} [Data Management]{.tag} [Urban Ecology]{.tag}
+[Community Science]{.tag} [Data Management]{.tag} [Project Management]{.tag} [Urban Ecology]{.tag}
 :::
 
-Piloting the migration of NASA GLOBE Observer's Mosquito Habitat Mapper to the CitSci platform to explore opportunities to improve data redundancy and expand community reporting capacity in Fort Collins. The final report documents project outcomes, platform assessment, stakeholder engagement, and ongoing implementation challenges.
+Explored whether the CitSci platform could back up and expand community mosquito habitat reporting in Fort Collins by piloting a migration of NASA GLOBE Observer’s Mosquito Habitat Mapper. The final report covers project outcomes, platform assessment, stakeholder engagement, and ongoing implementation challenges.
 
 ::: card-links
 [Report (PDF)](media/ess440_MosquitoMapperMigrationReport.pdf){target="_blank"} [ArcGIS StoryMap](https://arcg.is/CS8f)
@@ -77,7 +77,7 @@ CO 301B · August 2025
 ### Seeing Cities Clearly
 
 ::: card-tags
-[Feature Article]{.tag} [Urban Planning]{.tag} [GIS]{.tag} [AI]{.tag}
+[Feature Article]{.tag} [Remote Sensing]{.tag} [Disaster Resilience]{.tag} [GIS]{.tag}
 :::
 
 A feature article exploring how AI-powered drone remote sensing and machine learning are transforming urban planning and disaster resilience. Examines real-world applications in land-use classification, urban forest management, historic preservation, and disaster risk mapping.
@@ -98,7 +98,7 @@ CO 301B · July 2025
 [Advance Article]{.tag} [Urban Ecology]{.tag} [Environmental Justice]{.tag}
 :::
 
-An advance article discussing Schell et al. (2020) examining how systemic racism and economic inequality shape the ecological health of American cities, from biodiversity and air quality to climate resilience, exploring what justice-centered urban planning can do about it.
+How systemic racism and economic inequality shape the ecological health of American cities, from biodiversity and air quality to climate resilience, and what justice-centered urban planning can do about it. An advance article on Schell et al. (2020).
 
 ::: card-links
 [Read (PDF)](media/co301b_schell_advance.pdf){target="_blank"}
@@ -117,10 +117,10 @@ Spring 2026
 ### The Spoke — Knowledge Database
 
 ::: card-tags
-[Process Management]{.tag} [Record Keeping]{.tag} [SOPs]{.tag}
+[Knowledge Management]]{.tag} [Process Documentation]{.tag} [Business Operations]{.tag}
 :::
 
-Designed and built an internal knowledge database for The Spoke, CSU's on-campus bike cooperative, consolidating product documentation, service history frameworks, parts sourcing references, and operational procedures into a structured, searchable system for volunteer mechanics and staff.
+Gives student mechanics and staff at The Spoke, CSU’s on-campus bike shop, a searchable source for program documentation, metadata summaries, parts sourcing, and operating procedures.
 :::::
 
 ::::: project-card
@@ -131,10 +131,14 @@ Designed and built an internal knowledge database for The Spoke, CSU's on-campus
 ### ATFAB Web Redesign & Records System
 
 ::: card-tags
-[Web Design]{.tag} [Public Communication]{.tag} [Transportation]{.tag}
+[Web Design]{.tag} [Records Management]{.tag} [Public Communication]{.tag} [Transportation]{.tag}
 :::
 
-Led a comprehensive web redesign and records overhaul for CSU's Alternative Transportation Fee Advisory Board. Rebuilt the public-facing site for clarity and accessibility, and developed an internal knowledge database to standardize institutional records, meeting documentation, and policy tracking across board transitions.
+Made the Alternative Transportation Fee Advisory Board’s public information easier to find and kept institutional records consistent across board transitions. Rebuilt the public site for clarity and accessibility, and reorganized internal filesystem for records, meeting documentation, and policy tracking.
+
+::: card-links
+[ATFAB Webpage](atfab.colostate.edu)
+:::
 :::::
 
 :::::: project-card
@@ -145,13 +149,14 @@ Spring 2025
 ### Life Cycle Assessment — Soap Refill Packaging
 
 ::: card-tags
-[LCA]{.tag} [Sustainability Science]{.tag} [OpenLCA]{.tag} [ecoinvent]{.tag}
+[Life Cycle Assessment]{.tag} [OpenLCA]{.tag} [Uncertainty Analysis]{.tag} [Sustainability Science]{.tag}
 :::
 
-A comparative life cycle inventory and impact assessment of plastic bottle versus laminate pouch soap refill containers, using OpenLCA with the ecoinvent 3.11 database and ReCiPe 2016 midpoint methodology. Monte Carlo uncertainty analysis was used to evaluate result robustness. Findings suggest refill pouches carry equal or greater environmental impact than bottles across most impact categories — contrary to common marketing claims.
+Tested the common marketing claim that laminate refill pouches are better for the environment than plastic bottles, and found pouches carry equal or greater impact across most categories. Comparative LCI and LCIA in OpenLCA using ecoinvent 3.11 and ReCiPe 2016 midpoint, with Monte Carlo uncertainty analysis.
 
 ::: card-links
-[LCI Report (PDF)](media/ess555_lci_report.pdf){target="_blank"} [LCIA Report (PDF)](media/ess555_final_report.pdf){target="_blank"}
+[LCI Report (PDF)](media/ess555_lci_report.pdf){target="_blank"}
+[LCIA Report (PDF)](media/ess555_final_report.pdf){target="_blank"}
 :::
 ::::::
 
@@ -163,7 +168,7 @@ Spring 2025
 ### Starship Delivery Robots — Campus Perception Study
 
 ::: card-tags
-[Public Engagement]{.tag} [Transportation]{.tag} [Sustainability]{.tag} [Mixed Method Research]{.tag}
+[Public Engagement]{.tag} [Survey Research]{.tag} [Transportation]{.tag} [Mixed Methods]{.tag} 
 :::
 
 A mixed-methods study assessing student perceptions of Starship food delivery robots at CSU using in-person interviews, Likert-scale surveys, and thematic analysis. Findings revealed predominantly negative sentiment centered on inefficiency, resource misprioritization, and concerns that the robots displace more sustainable alternatives like walking and cycling.
@@ -177,7 +182,7 @@ A mixed-methods study assessing student perceptions of Starship food delivery ro
 ## Photography
 
 ::: section-intro
-I'm an amateur photographer with an interest in macro, landscape, nature, and aerial drone photography along the Colorado Front Range. I volunteer with the City of Fort Collins Natural Areas to capture events, restoration work, and programs in support of the cities outreach and public communication efforts.
+I'm an amateur photographer with an interest in macro, landscape, street, and aerial drone photography. I volunteer with the City of Fort Collins Natural Areas to capture events, restoration work, and programs in support of the cities outreach and public communication efforts.
 
 A dedicated gallery is in development.
 :::

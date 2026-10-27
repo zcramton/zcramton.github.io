@@ -37,8 +37,7 @@ The greatest potential to improve daily life is in the places people live and bu
 
 I studied Ecosystem Science and Sustainability at Colorado State University, specializing in climate resilience and public education. My work includes transportation planning, environmental analysis, and GIS projects. I have directed \$1.5 million in matching funds to successful grant applications totaling over \$7 million for multimodal transportation infrastructure.
 
-Recently I've led a web and records overhaul for CSU's Alternative Transportation Fee Advisory Board, authored a [micromobility impact report](media/act_2025tdm_report.pdf#page=22){target="_blank"} for the Association for Commuter Transportation, and developed a [spatial screening tool](https://github.com/zcramton/csu_nr_426/tree/main/FinalProject){target="_blank"} for beaver conflict and restoration analysis in ArcGIS Pro with ArcPy and the Spatial Analysis Toolbox. My [capstone project](media/ess440_MosquitoMapperMigrationReport.pdf) piloted the migration of NASA GLOBE Observer's Mosquito Habitat Mapper to the CitSci platform in Fort Collins.
-
+Recent work includes a [spatial screening tool](https://github.com/zcramton/csu_nr_426/tree/main/FinalProject) for beaver conflict and restoration analysis, built with Python in ArcGIS Pro, and a [micromobility impact report (pg. 22)](media/act_2025tdm_report.pdf#page=22) for the Association for Commuter Transportation. As project manager for my [senior capstone](media/ess440_MosquitoMapperMigrationReport.pdf), I piloted the migration of NASA GLOBE Observer’s Mosquito Habitat Mapper to the CitSci platform in Fort Collins.
 
 </div>
 </div>
