@@ -3,6 +3,7 @@ project:
   output-dir: docs
   resources:
     - media/
+    - CNAME
 
 website:
   title: "Zachary Cramton"
